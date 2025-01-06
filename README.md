@@ -10,6 +10,6 @@ Start the Application 🚀 Once the dependencies are installed and the environme
 
 : Npm Run Dev :
 
-This will start the app on your local machine (typically accessible via http://localhost:5173). 🌍
+This will start the app on your local machine (typically accessible via http://localhost:3000). 🌍
 
 Troubleshooting 🛠️ If you encounter any issues with dependencies, try running npm install again. If you face problems with your database connection, double-check the values you’ve added to the .env file to ensure they're correct.
