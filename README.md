@@ -10,13 +10,6 @@ Start the Application 🚀 Once the dependencies are installed and the environme
 
 : Npm Run Dev :
 
-//API ENDPOINTS
-router.post('/', createItemController);          // Create a new item
-router.get('/', getAllItemsController);         // Get all items
-router.get('/:id', getItemByIdController);     // Get item by id
-router.put('/:id', updateItemController);     // Update item by id
-router.delete('/:id', deleteItemController);     // delete item by id
-
 This will start the app on your local machine (typically accessible via http://localhost:3000). 🌍
 
 Troubleshooting 🛠️ If you encounter any issues with dependencies, try running npm install again. If you face problems with your database connection, double-check the values you’ve added to the .env file to ensure they're correct.
